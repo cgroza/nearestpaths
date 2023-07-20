@@ -1,0 +1,6 @@
+[submodule "libhandlegraph"]
+	path = libhandlegraph
+	url = https://github.com/vgteam/libhandlegraph.git
+[submodule "libbdsg-easy"]
+	path = libbdsg-easy
+	url = https://github.com/vgteam/libbdsg-easy.git
